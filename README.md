@@ -1,1 +1,1 @@
-# laboratorio-padrao-java
+# lab-padroes-java
